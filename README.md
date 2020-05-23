@@ -15,7 +15,7 @@ You can organize these books through the dropdown menus for each book.
 
 You can also search for available books through the search function on this app.
 When you do, you can follow the same procedure when you want to put a book into a category.
-![BookShelf](https://github.com/Al-Jarah/Bookstore/blob/master/Screen%20Shot%202020-05-23%20at%203.11.33%20PM.png)
+![BookShelf](https://imgur.com/QHi0bED)
 
 ## Getting Started
 
