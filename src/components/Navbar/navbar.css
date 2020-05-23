@@ -1,0 +1,11 @@
+#title {
+        font-family: 'Comic Neue', cursive;
+        font-size: 2rem;
+        color: rgb(141, 218, 238);
+}
+
+.wrap {
+        display: flex;
+        
+        justify-content: space-between;
+}
